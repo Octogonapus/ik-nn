@@ -1,2 +1,4 @@
 venv
 .idea
+ik_3dof_planar.csv
+ik_6dof.csv
